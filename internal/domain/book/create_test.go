@@ -3,7 +3,7 @@ package book_test
 import (
 	"testing"
 
-	"github.com/MarceloBxD/bookstore/internal/domain/book"
+	"github.com/MarceloBxD/goandk8s/internal/domain/book"
 	book "github.com/MarceloBxD/goandk8s/internal/domain/book"
 	usecase "github.com/MarceloBxD/goandk8s/internal/usecase/book"
 	"github.com/stretchr/testify/mock"

@@ -1,7 +1,7 @@
 package db
 
 import (
-	"github.com/MarceloBxD/bookstore/internal/domain/book"
+	"github.com/MarceloBxD/goandk8s/internal/domain/book"
 	"gorm.io/gorm"
 )
 

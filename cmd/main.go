@@ -1,7 +1,6 @@
 package main
 
 import (
-	"github.com/MarceloBxD/bookstore/internal/interface/http"
 	book "github.com/MarceloBxD/goandk8s/internal/domain/book"
 	"github.com/MarceloBxD/goandk8s/internal/infra/db"
 	"github.com/MarceloBxD/goandk8s/internal/interface/http"
